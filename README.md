@@ -1,4 +1,4 @@
-# 🚖 ZappCab - Your Modern Cab Booking Experience
+# 🚖 Zevra - Your Modern Cab Booking Experience
 
 Welcome to **ZappCab**, my personal project to build a **fun, fast, and futuristic** cab booking web application!  
 Currently under development 🚧 but progressing rapidly! This project not only reflects my current skills but also shows my vision for how I think cab services should feel in the modern web era.
