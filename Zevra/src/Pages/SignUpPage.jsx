@@ -173,7 +173,6 @@ else{
     <div className="min-h-screen bg-gray-100 flex items-center justify-center py-16 px-4 sm:px-6 lg:px-8 relative overflow-hidden">
       <NavBar />
 
-      {/* ✅ ToastContainer should be placed ONCE globally */}
       <ToastContainer />
 
       <div className="absolute top-0 left-0 w-full h-full pointer-events-none">
